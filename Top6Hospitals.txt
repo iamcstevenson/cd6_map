@@ -1,0 +1,74 @@
+Here are the **six Kentucky rural hospitals** most at risk of closure under the proposed “One Big Beautiful Bill,” with detailed info on addresses, estimated populations affected, and prominent services that would disappear if they close:
+
+---
+
+### 1. **Whitesburg ARH Hospital**
+
+* **Address**: 240 Hospital Road, Whitesburg, KY 41858 ([kypolicy.org][1], [ahd.com][2])
+* **Population affected**: Serves Letcher County (\~22,000 residents); closure would eliminate the county’s only hospital.
+* **Lost services**: Full emergency department, inpatient care, maternity & surgical services, outpatient clinics, pharmacy, home‑care, and behavioral health.
+
+---
+
+### 2. **Highlands ARH Regional Medical Center – Prestonsburg**
+
+* **Address**: 5000 KY‑321, Prestonsburg, KY 41653 ([arh.org][3], [uoflhealth.org][4], [providers.arh.org][5])
+* **Population affected**: Covers Floyd, Johnson, Martin & Magoffin counties—over 90,000 people ([en.wikipedia.org][6]).
+* **Lost services**: 184‑bed acute care including 24/7 ER (Level IV trauma), cardiac rehab, NICU, behavioral health, oncology, obstetrics/labor‑delivery, surgical services, radiology labs, and pharmacy.
+
+---
+
+### 3. **UofL Health – Shelbyville Hospital**
+
+* **Address**: 727 Hospital Drive, Shelbyville, KY 40065 ([providers.arh.org][5], [uoflhealth.org][7])
+* **Population affected**: Serves Shelby and nearby counties (\~50,000+ region).
+* **Lost services**: 70‑bed facility with 24/7 ER, ICU, all‑private rooms, full imaging (MRI/CT/PET), cardiac & pulmonary rehab, specialized surgeries (ENT, ortho, neurosurgery, GI, vascular), rehab therapy, sleep medicine, wound care and diabetes/nutrition programs.
+
+---
+
+### 4. **T.J. Samson Community Hospital – Glasgow**
+
+* **Address**: 1301 N. Race Street, Glasgow, KY 42141 ([causeiq.com][8], [uoflhealth.org][7], [tjregionalhealth.org][9])
+* **Population affected**: Serves Barren County (\~45,000) and parts of surrounding counties.
+* **Lost services**: Acute hospital care, 24/7 ER, surgical services, inpatient rehab/SNU (recognized as a top short‑term rehab facility), outpatient clinics across multiple specialties.
+
+---
+
+### 5. **St. Claire Regional Medical Center – Morehead**
+
+* **Address**: 222 Medical Circle, Morehead, KY 40351 ([st-claire.org][10])
+* **Population affected**: Serves 160,000+ across 11 counties (Bath, Carter, Elliott, Fleming, Lewis, Magoffin, Menifee, Montgomery, Morgan, Rowan, Wolfe) ([causeiq.com][11]).
+* **Lost services**: Emergency care, surgical services, labor & delivery, diagnostic imaging, lab, mental‑health, therapy services (PT/OT/Speech), wound care, oncology, cardiology, orthopedics, pediatrics, pharmacy, hospice, home‑health.
+
+---
+
+### 6. **Middlesboro ARH Hospital**
+
+* **Address**: Serves Bell County—exact street address not listed, but it's the county hospital for Middlesboro (Bell County pop. \~27,000) ([st-claire.org][10], [arh.org][12]).
+* **Population affected**: Entire Bell County (\~27,000), plus referrals from surrounding areas.
+* **Lost services**: Inpatient and ER care, common rural hospital services including primary care clinics, outpatient services, pharmacy, and diagnostic labs/radiology.
+
+---
+
+### 🚨 Overall Impact
+
+* **Large rural population loss**: Combined, these six hospitals serve **nearly 400,000 residents** across dozens of counties.
+* **Health-care deserts**: Closure would eliminate the only local hospital access—forcing patients to travel **30–70 miles** for emergency and routine care.
+* **Service gaps**: Maternity care, surgery, inpatient rehab, NICU, mental health, oncology, cardiology, and full-spectrum emergency services would vanish, leaving communities vulnerable.
+
+---
+
+Let me know if you’d like trends in utilization, estimated economic losses, or maps showing alternative care options.
+
+[1]: https://kypolicy.org/35-kentucky-hospitals-at-risk-of-closure-due-to-medicaid-cuts/?utm_source=chatgpt.com "Kentucky Faces the Nation's Highest Number of Rural Hospitals at ..."
+[2]: https://www.ahd.com/free_profile/180002/Whitesburg_ARH_Hospital/Whitesburg/Kentucky/?utm_source=chatgpt.com "Whitesburg ARH Hospital (180002) - Free Profile"
+[3]: https://www.arh.org/wp-content/uploads/2022/07/Whitesburg-ARH-CHNA-2022.pdf?utm_source=chatgpt.com "[PDF] Whitesburg ARH Hospital - Appalachian Regional Healthcare"
+[4]: https://uoflhealth.org/locations/shelbyville-hospital/services/?utm_source=chatgpt.com "Services | Shelbyville Hospital | Louisville KY - UofL Health"
+[5]: https://providers.arh.org/location/highlands-arh-regional-medical-center/loc0000132808?utm_source=chatgpt.com "Highlands ARH Regional Medical Center - Prestonsburg - KY"
+[6]: https://en.wikipedia.org/wiki/Highlands_ARH_Regional_Medical_Center?utm_source=chatgpt.com "Highlands ARH Regional Medical Center"
+[7]: https://uoflhealth.org/locations/shelbyville-hospital/?utm_source=chatgpt.com "UofL Health – Shelbyville Hospital"
+[8]: https://www.causeiq.com/organizations/uofl-health-shelbyville%2C843196350/?utm_source=chatgpt.com "U of L Health - Shelbyville | Louisville, KY - Cause IQ"
+[9]: https://www.tjregionalhealth.org/locations/tj-samson-community-hospital/?utm_source=chatgpt.com "T.J. Samson Community Hospital - T.J. Regional Health"
+[10]: https://www.st-claire.org/locations/st-claire-regional-medical-center/?utm_source=chatgpt.com "St. Claire Regional Medical Center | Hospital in Eastern Kentucky"
+[11]: https://www.causeiq.com/organizations/st-claire-regional-medical-center%2C610605336/?utm_source=chatgpt.com "St Claire Regional Medical Center | Morehead, KY - Cause IQ"
+[12]: https://www.arh.org/wp-content/uploads/2022/07/Middlesboro-ARH-CHNA-2022.pdf?utm_source=chatgpt.com "[PDF] Middlesboro ARH Hospital - Appalachian Regional Healthcare"
