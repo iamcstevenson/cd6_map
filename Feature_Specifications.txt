@@ -1,0 +1,7 @@
+ Feature Specifications - Current baseline features:
+
+Left-aligned title/address search
+Interactive address lookup with colored markers
+Blue district boundaries, light county fills
+Grey surrounding counties
+Hover effects, reset functionality
